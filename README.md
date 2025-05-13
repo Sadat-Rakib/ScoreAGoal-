@@ -106,4 +106,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 Sadat Rakib - [@Sadat-Rakib](https://github.com/Sadat-Rakib) - sadat.rakib@example.com
 
-Project Link: [https://github.com/Sadat-Rakib/ScoreAGoal](https://github.com/Sadat-Rakib/ScoreAGoal)
+Project Link: [https://github.com/Sadat-Rakib/ScoreAGoal](https://github.com/Sadat-Rakib/ScoreAGoal-)
